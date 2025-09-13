@@ -1,5 +1,4 @@
 import React from 'react'
-import Home from './home'
 import Allrouter from './allrouter'
 import Header from './componant/header'
 import Footer from './componant/footer'
